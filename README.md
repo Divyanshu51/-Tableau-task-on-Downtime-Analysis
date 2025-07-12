@@ -29,9 +29,9 @@ We were given a dataset with machine statuses across different factories and dev
   IF [Status] = "Unhealthy" THEN 10 ELSE 0 END
 
 ### 2. Down Time per Device Type
-•X-axis: Device Type
-•Y-axis: Total downtime
-•Dynamically filtered based on the selected factory from the first chart.
+     •X-axis: Device Type
+     •Y-axis: Total downtime
+     •Dynamically filtered based on the selected factory from the first chart.
 
 ### 📈 Dashboard
 -Combined both charts into a single dashboard.
