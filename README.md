@@ -22,4 +22,4 @@ We were given a dataset with machine statuses across different factories and dev
   IF [Status] = "Unhealthy" THEN 10 ELSE 0 END
 
 ## Dashboard Image
-![Dashboard Preview](Dashboard_Image.png)
+![Dashboard Preview](Dashboard_Image.jpg)
