@@ -30,7 +30,9 @@ We were given a dataset with machine statuses across different factories and dev
 
 ### 2. Down Time per Device Type
 -X-axis: Device Type
+
 -Y-axis: Total downtime
+
 -Dynamically filtered based on the selected factory from the first chart.
 
 ### 📈 Dashboard
